@@ -44,3 +44,4 @@ artifacts/
 # Test data or temp files
 test_outputs/
 *.tmp
+venv/
